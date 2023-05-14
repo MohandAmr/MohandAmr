@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohand Amr Mostafa</h1>
-<h3 align="center">Junior Data Analysis</h3>
+<h3 align="center">Junior Data Analyst</h3>
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" width=100% >
 
 
