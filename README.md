@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # Mohand Amr Mostafa
@@ -117,4 +117,4 @@ I am a junior data analyst with a strong foundation in **Python**, **SQL**, and 
 </picture>
 
 </div>
-```
+
