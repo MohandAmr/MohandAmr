@@ -1,10 +1,8 @@
-
 <div align="center">
 
 # Mohand Amr Mostafa
 
 **Junior Data Analyst**
-
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" width=100% >
 
 Transforming raw data into actionable insights through exploratory analysis, visualization, and machine learning.
@@ -94,27 +92,3 @@ I am a junior data analyst with a strong foundation in **Python**, **SQL**, and 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohandamr&theme=algolia" alt="GitHub Streak" width="700"/>
 </p>
-
----
-
-<div align="center">
-
-### Contribution Graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mohandamr/mohandamr/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mohandamr/mohandamr/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/mohandamr/mohandamr/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
