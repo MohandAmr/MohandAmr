@@ -4,6 +4,8 @@
 
 **Junior Data Analyst**
 
+<img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" width=100% >
+
 Transforming raw data into actionable insights through exploratory analysis, visualization, and machine learning.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohandamr&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mohandamr)
@@ -22,7 +24,7 @@ I am a junior data analyst with a strong foundation in **Python**, **SQL**, and 
 - 👨‍💻 **Portfolio:** [Kaggle Profile](https://www.kaggle.com/mohandamr)
 - 📝 **Articles & notebooks:** [Kaggle](https://www.kaggle.com/mohandamr)
 - 💬 **Ask me about:** EDA, Python, SQL, and data visualization
-- 📫 **Email:** [zonek229@gmail.com](mailto:zonek229@gmail.com)
+- 📫 **Email:** [mohandamrmostafa@gmail.com](mailto:mohandamrmostafa@gmail.com)
 - 💼 **Experience:** [LinkedIn](https://www.linkedin.com/in/mohand-amr-75083520b/)
 
 ---
