@@ -1,3 +1,4 @@
+```md
 <div align="center">
 
 # Mohand Amr Mostafa
@@ -100,6 +101,20 @@ I am a junior data analyst with a strong foundation in **Python**, **SQL**, and 
 
 ### Contribution Graph
 
-![Contribution snake animation](https://github.com/mohandamr/mohandamr/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mohandamr/mohandamr/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mohandamr/mohandamr/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/mohandamr/mohandamr/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
+```
